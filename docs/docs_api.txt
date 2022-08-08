@@ -1,0 +1,9 @@
+GET "/excuses"  return all excuses 
+
+POST "/excuses"  ajout produit
+   
+    Parameters                      Description
+       
+       tag                            string
+
+       message                        string

@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "kossi",
+    "password": "soicai19",
+    "database": "database_excuses",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "kossi",
+    "password": "soicai19",
+    "database": "database_excuses",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "kossi",
+    "password": "soicai19",
+    "database": "database_excuses",
+    "host": "localhost",
+    "dialect": "mysql"
+  }
+}
