@@ -1,8 +1,10 @@
 GET "/excuses"  return all excuses 
 
-POST "/excuses"  ajout produit
+POST "/excuses"  add new excuses
    
     Parameters                      Description
+
+       http_code                      integer
        
        tag                            string
 
