@@ -1,21 +1,21 @@
 {
   "development": {
-    "username": "kossi",
-    "password": "soicai19",
+    "username": "<YOUR_USERNAME>",
+    "password": "<YOUR_PASSWORD>",
     "database": "database_excuses",
     "host": "localhost",
     "dialect": "mysql"
   },
   "test": {
-    "username": "kossi",
-    "password": "soicai19",
+    "username": "<YOUR_USERNAME>",
+    "password": "<YOUR_PASSWORD>",
     "database": "database_excuses",
     "host": "localhost",
     "dialect": "mysql"
   },
   "production": {
-    "username": "kossi",
-    "password": "soicai19",
+    "username": "<YOUR_USERNAME>",
+    "password": "<YOUR_PASSWORD>",
     "database": "database_excuses",
     "host": "localhost",
     "dialect": "mysql"

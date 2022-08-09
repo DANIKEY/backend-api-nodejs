@@ -1,5 +1,4 @@
 # Excuses api
-
 ---
 ## Requirements
 
@@ -28,9 +27,8 @@ npm install
 
 Open backend folder then edit it with your settings. You will need:
 
-- A setting;
-- Another setting;
-- One more setting;
+- Mysql Settings  folder config;
+- sequelize db:migrate
 
 ## Running the project
 
