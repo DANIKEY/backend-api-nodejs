@@ -1,77 +1,76 @@
-http_code,tag, message 
-701,Inexcusable, Meh
-702,Inexcusable, Emacs
-703,Inexcusable, Explosion
-704,Inexcusable, Goto Fail
-705,Inexcusable, I wrote the code and missed thenecessary validation by an oversight (see 795)
-706,Inexcusable, Delete Your Account
-707,Inexcusable, Can't quit vi
-710,Novelty Implementations, PHP
-711,Novelty Implementations, Convenience Store
-712,Novelty Implementations, NoSQL
-718,Novelty Implementations, I am not a teapot
-719,Novelty Implementations, Haskell
-720,Edge Cases, Unpossible
-721,Edge Cases, Known Unknowns
-722,Edge Cases, Unknown Unknowns
-723,Edge Cases, Tricky
-724,Edge Cases, This line should be unreachable
-725,Edge Cases, It works on my machine
-726,Edge Cases," It's a feature, not a bug"
-727,Edge Cases, 32 bits is plenty
-728,Edge Cases, It works in my timezone
-730,Fucking, Fucking npm
-731,Fucking, Fucking Rubygems
-732,Fucking, Fucking Unicode
-733,Fucking, Fucking Deadlocks
-734,Fucking, Fucking Deferreds
-736,Fucking, Fucking Race Conditions
-735,Fucking, Fucking IE
-737,Fucking, FuckThreadsing
-738,Fucking, Fucking Exactly-once Delivery
-739,Fucking, Fucking Windows
-738,Fucking, Fucking Exactly
-739,Fucking, Fucking McAfee
-750,Syntax Errors, Didn't bother to compile it
-753,Syntax Errors, Syntax Error
-754,Syntax Errors, Too many semi-colons
-755,Syntax Errors, Not enough semi-colons
-756,Syntax Errors, Insufficiently polite
-757,Syntax Errors, Excessively polite
-759,Syntax Errors, Unexpected `T_PAAMAYIM_NEKUDOTAYIM`
-761,Substance, Hungover
-762,Substance, Stoned
-763,Substance, Under-Caffeinated
-764,Substance, Over-Caffeinated
-765,Substance, Railscamp
-766,Substance, Sober
-767,Substance, Drunk
-768,Substance, Accidentally Took Sleeping Pills Instead Of Migraine Pills During Crunch Week
-771,Predictable Problems, Cached for too long
-772,Predictable Problems, Not cached long enough
-773,Predictable Problems, Not cached at all
-774,Predictable Problems, Why was this cached?
-775,Predictable Problems,Out of cash
-776,Predictable Problems,Error on the Exception
-777,Predictable Problems, Coincidence
-778,Predictable Problems, Off By One Error
-779,Predictable Problems, Off By Too Many To Count Error
-780,Somebody Else's Problem, Project owner not responding
-781,Somebody Else's Problem, Operations
-782,Somebody Else's Problem, QA
-783,Somebody Else's Problem," It was a customer request, honestly"
-784,Somebody Else's Problem," Management, obviously"
-785,Somebody Else's Problem, TPS Cover Sheet not attached
-786,Somebody Else's Problem, Try it now
-787,Somebody Else's Problem, Further Funding Required
-788,Somebody Else's Problem, Designer's final designs weren't
-789,Somebody Else's Problem, Not my department
-791,Internet crashed, The Internet shut down due to copyright restrictions
-792,Internet crashed, Climate change driven catastrophic weather event
-793,Internet crashed, Zombie Apocalypse
-794,Internet crashed, Someone let PG near a REPL
-795,Internet crashed, #heartbleed (see 705)
-796,Internet crashed, Some DNS fuckery idno
-797,Internet crashed, This is the last page of the Internet. Go back
-798,Internet crashed, I checked the db backups cupboard and the cupboard was bare
-799,Internet crashed, End of the world
+"7","701","Inexcusable"," Meh","0000-00-00 00:00:00","0000-00-00 00:00:00"
+"8","702","Inexcusable"," Emacs","0000-00-00 00:00:00","0000-00-00 00:00:00"
+"9","703","Inexcusable"," Explosion","0000-00-00 00:00:00","0000-00-00 00:00:00"
+"10","704","Inexcusable"," Goto Fail","0000-00-00 00:00:00","0000-00-00 00:00:00"
+"11","705","Inexcusable"," I wrote the code and missed thenecessary validation by an oversight (see 795)","0000-00-00 00:00:00","0000-00-00 00:00:00"
+"12","706","Inexcusable"," Delete Your Account","0000-00-00 00:00:00","0000-00-00 00:00:00"
+"13","707","Inexcusable"," Can't quit vi","0000-00-00 00:00:00","0000-00-00 00:00:00"
+"14","710","Novelty Implementations"," PHP","0000-00-00 00:00:00","0000-00-00 00:00:00"
+"15","711","Novelty Implementations"," Convenience Store","0000-00-00 00:00:00","0000-00-00 00:00:00"
+"16","712","Novelty Implementations"," NoSQL","0000-00-00 00:00:00","0000-00-00 00:00:00"
+"17","718","Novelty Implementations"," I am not a teapot","0000-00-00 00:00:00","0000-00-00 00:00:00"
+"18","719","Novelty Implementations"," Haskell","0000-00-00 00:00:00","0000-00-00 00:00:00"
+"19","720","Edge Cases"," Unpossible","0000-00-00 00:00:00","0000-00-00 00:00:00"
+"20","721","Edge Cases"," Known Unknowns","0000-00-00 00:00:00","0000-00-00 00:00:00"
+"21","722","Edge Cases"," Unknown Unknowns","0000-00-00 00:00:00","0000-00-00 00:00:00"
+"22","723","Edge Cases"," Tricky","0000-00-00 00:00:00","0000-00-00 00:00:00"
+"23","724","Edge Cases"," This line should be unreachable","0000-00-00 00:00:00","0000-00-00 00:00:00"
+"24","725","Edge Cases"," It works on my machine","0000-00-00 00:00:00","0000-00-00 00:00:00"
+"25","726","Edge Cases"," It's a feature, not a bug","0000-00-00 00:00:00","0000-00-00 00:00:00"
+"26","727","Edge Cases"," 32 bits is plenty","0000-00-00 00:00:00","0000-00-00 00:00:00"
+"27","728","Edge Cases"," It works in my timezone","0000-00-00 00:00:00","0000-00-00 00:00:00"
+"28","730","Fucking"," Fucking npm","0000-00-00 00:00:00","0000-00-00 00:00:00"
+"29","731","Fucking"," Fucking Rubygems","0000-00-00 00:00:00","0000-00-00 00:00:00"
+"30","732","Fucking"," Fucking Unicode","0000-00-00 00:00:00","0000-00-00 00:00:00"
+"31","733","Fucking"," Fucking Deadlocks","0000-00-00 00:00:00","0000-00-00 00:00:00"
+"32","734","Fucking"," Fucking Deferreds","0000-00-00 00:00:00","0000-00-00 00:00:00"
+"33","736","Fucking"," Fucking Race Conditions","0000-00-00 00:00:00","0000-00-00 00:00:00"
+"34","735","Fucking"," Fucking IE","0000-00-00 00:00:00","0000-00-00 00:00:00"
+"35","737","Fucking"," FuckThreadsing","0000-00-00 00:00:00","0000-00-00 00:00:00"
+"36","738","Fucking"," Fucking Exactly-once Delivery","0000-00-00 00:00:00","0000-00-00 00:00:00"
+"37","739","Fucking"," Fucking Windows","0000-00-00 00:00:00","0000-00-00 00:00:00"
+"38","738","Fucking"," Fucking Exactly","0000-00-00 00:00:00","0000-00-00 00:00:00"
+"39","739","Fucking"," Fucking McAfee","0000-00-00 00:00:00","0000-00-00 00:00:00"
+"40","750","Syntax Errors"," Didn't bother to compile it","0000-00-00 00:00:00","0000-00-00 00:00:00"
+"41","753","Syntax Errors"," Syntax Error","0000-00-00 00:00:00","0000-00-00 00:00:00"
+"42","754","Syntax Errors"," Too many semi-colons","0000-00-00 00:00:00","0000-00-00 00:00:00"
+"43","755","Syntax Errors"," Not enough semi-colons","0000-00-00 00:00:00","0000-00-00 00:00:00"
+"44","756","Syntax Errors"," Insufficiently polite","0000-00-00 00:00:00","0000-00-00 00:00:00"
+"45","757","Syntax Errors"," Excessively polite","0000-00-00 00:00:00","0000-00-00 00:00:00"
+"46","759","Syntax Errors"," Unexpected `T_PAAMAYIM_NEKUDOTAYIM`","0000-00-00 00:00:00","0000-00-00 00:00:00"
+"47","761","Substance"," Hungover","0000-00-00 00:00:00","0000-00-00 00:00:00"
+"48","762","Substance"," Stoned","0000-00-00 00:00:00","0000-00-00 00:00:00"
+"49","763","Substance"," Under-Caffeinated","0000-00-00 00:00:00","0000-00-00 00:00:00"
+"50","764","Substance"," Over-Caffeinated","0000-00-00 00:00:00","0000-00-00 00:00:00"
+"51","765","Substance"," Railscamp","0000-00-00 00:00:00","0000-00-00 00:00:00"
+"52","766","Substance"," Sober","0000-00-00 00:00:00","0000-00-00 00:00:00"
+"53","767","Substance"," Drunk","0000-00-00 00:00:00","0000-00-00 00:00:00"
+"54","768","Substance"," Accidentally Took Sleeping Pills Instead Of Migraine Pills During Crunch Week","0000-00-00 00:00:00","0000-00-00 00:00:00"
+"55","771","Predictable Problems"," Cached for too long","0000-00-00 00:00:00","0000-00-00 00:00:00"
+"56","772","Predictable Problems"," Not cached long enough","0000-00-00 00:00:00","0000-00-00 00:00:00"
+"57","773","Predictable Problems"," Not cached at all","0000-00-00 00:00:00","0000-00-00 00:00:00"
+"58","774","Predictable Problems"," Why was this cached?","0000-00-00 00:00:00","0000-00-00 00:00:00"
+"59","775","Predictable Problems","Out of cash","0000-00-00 00:00:00","0000-00-00 00:00:00"
+"60","776","Predictable Problems","Error on the Exception","0000-00-00 00:00:00","0000-00-00 00:00:00"
+"61","777","Predictable Problems"," Coincidence","0000-00-00 00:00:00","0000-00-00 00:00:00"
+"62","778","Predictable Problems"," Off By One Error","0000-00-00 00:00:00","0000-00-00 00:00:00"
+"63","779","Predictable Problems"," Off By Too Many To Count Error","0000-00-00 00:00:00","0000-00-00 00:00:00"
+"64","780","Somebody Else's Problem"," Project owner not responding","0000-00-00 00:00:00","0000-00-00 00:00:00"
+"65","781","Somebody Else's Problem"," Operations","0000-00-00 00:00:00","0000-00-00 00:00:00"
+"66","782","Somebody Else's Problem"," QA","0000-00-00 00:00:00","0000-00-00 00:00:00"
+"67","783","Somebody Else's Problem"," It was a customer request, honestly","0000-00-00 00:00:00","0000-00-00 00:00:00"
+"68","784","Somebody Else's Problem"," Management, obviously","0000-00-00 00:00:00","0000-00-00 00:00:00"
+"69","785","Somebody Else's Problem"," TPS Cover Sheet not attached","0000-00-00 00:00:00","0000-00-00 00:00:00"
+"70","786","Somebody Else's Problem"," Try it now","0000-00-00 00:00:00","0000-00-00 00:00:00"
+"71","787","Somebody Else's Problem"," Further Funding Required","0000-00-00 00:00:00","0000-00-00 00:00:00"
+"72","788","Somebody Else's Problem"," Designer's final designs weren't","0000-00-00 00:00:00","0000-00-00 00:00:00"
+"73","789","Somebody Else's Problem"," Not my department","0000-00-00 00:00:00","0000-00-00 00:00:00"
+"74","791","Internet crashed"," The Internet shut down due to copyright restrictions","0000-00-00 00:00:00","0000-00-00 00:00:00"
+"75","792","Internet crashed"," Climate change driven catastrophic weather event","0000-00-00 00:00:00","0000-00-00 00:00:00"
+"76","793","Internet crashed"," Zombie Apocalypse","0000-00-00 00:00:00","0000-00-00 00:00:00"
+"77","794","Internet crashed"," Someone let PG near a REPL","0000-00-00 00:00:00","0000-00-00 00:00:00"
+"78","795","Internet crashed"," #heartbleed (see 705)","0000-00-00 00:00:00","0000-00-00 00:00:00"
+"79","796","Internet crashed"," Some DNS fuckery idno","0000-00-00 00:00:00","0000-00-00 00:00:00"
+"80","797","Internet crashed"," This is the last page of the Internet. Go back","0000-00-00 00:00:00","0000-00-00 00:00:00"
+"81","798","Internet crashed"," I checked the db backups cupboard and the cupboard was bare","0000-00-00 00:00:00","0000-00-00 00:00:00"
+"82","799","Internet crashed"," End of the world","0000-00-00 00:00:00","0000-00-00 00:00:00"
